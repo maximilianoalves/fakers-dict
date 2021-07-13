@@ -8,4 +8,5 @@ Criei este reósitório com intuito de adicionar todas as libs para geração de
   * [Java Fake](https://github.com/DiUS/java-faker) 
 * **Python**
   * [Faker](https://faker.readthedocs.io/en/master/)
-
+* **Ruby**
+  * [Faker](https://github.com/faker-ruby/faker) 
